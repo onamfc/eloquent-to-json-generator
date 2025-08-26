@@ -1,6 +1,6 @@
 {
     "name": "onamfc/eloquent-json-schema",
-    "version": "dev-main",
+    "version": "1.0.2",
     "description": "Generate JSON Schema files from Eloquent models for Laravel applications",
     "type": "library",
     "license": "MIT",
